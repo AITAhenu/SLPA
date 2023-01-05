@@ -8,15 +8,15 @@ A software of SLPA-Net:a real-time detection network for intelligent stomata loc
 
 We propose a network called SLPA-Net that can locate, identify stomata and automatically perform intelligent analysis of phenotypes such as apertures. SLPA-Net has good generalization and robustness, and can be applied to both monocotyledon and dicotyledon plants. For user convenience, we packaged it into a piece of software called SLPA.
 
-## Prepare
+## Prepare 
 
 1.Download code above;
 
-2.Download [yolo4_weights.pth](https://send.cm/fsmjt0ay1fia) then put it in the 'model_data' folder; 
+2.Download [yolo4_weights.pth](https://send.cm/sfbmzyadtteg) then put it in the 'model_data' folder; 
 
-3.Download [monocotyledon weight](https://send.cm/dsx4kwdpifuh) and [dicotyledon weight](https://send.cm/lzc9cf869phv) put them in the 'logfocaleca' folder;
+3.Download [monocotyledon weight](https://send.cm/pmf6gqehrsr0) and [dicotyledon weight](https://send.cm/zmiagbu8asua) put them in the 'logfocaleca' folder;
 
-4.Download [Environment variables](https://send.cm/15vru9kn4kxa) then put it in the 'torch/lib' folder;
+4.Download [Environment variables](https://send.cm/4wzpt6aqryr3) then put it in the 'torch/lib' folder;
 
 ## Usage of SLPA
 
