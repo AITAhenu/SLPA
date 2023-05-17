@@ -18,7 +18,7 @@ We propose a network called SLPA-Net that can locate, identify stomata and autom
 
 4.Download [Environment variables](https://pan.baidu.com/s/1EguZjq3HfYwpw0MK8BgNPA?pwd=SLPA) then put it in the 'torch/lib' folder;
 
-5.**All the extract code for above links are SLPA**
+5.All the extract code for above links are **SLPA**
 
 ## Usage of SLPA
 
