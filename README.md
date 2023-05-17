@@ -12,7 +12,7 @@ We propose a network called SLPA-Net that can locate, identify stomata and autom
 
 1.Download code above;
 
-2.Download [yolo4_weights.pth](https://send.cm/sfbmzyadtteg) then put it in the 'model_data' folder; 
+2.Download [yolo4_weights.pth](https://pan.baidu.com/s/14jC7mN6Gz5cMuCgulz0Igg?pwd=iwgb) then put it in the 'model_data' folder; 
 
 3.Download [monocotyledon weight](https://send.cm/pmf6gqehrsr0) and [dicotyledon weight](https://send.cm/zmiagbu8asua) put them in the 'logfocaleca' folder;
 
