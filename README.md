@@ -12,11 +12,13 @@ We propose a network called SLPA-Net that can locate, identify stomata and autom
 
 1.Download code above;
 
-2.Download [yolo4_weights.pth](https://pan.baidu.com/s/14jC7mN6Gz5cMuCgulz0Igg?pwd=iwgb) then put it in the 'model_data' folder; 
+2.Download [yolo4_weights.pth](https://pan.baidu.com/s/13sweJ45Poz2FF0re6zsybA?pwd=SLPA) then put it in the 'model_data' folder; 
 
-3.Download [monocotyledon weight](https://send.cm/pmf6gqehrsr0) and [dicotyledon weight](https://send.cm/zmiagbu8asua) put them in the 'logfocaleca' folder;
+3.Download [monocotyledon weight](https://pan.baidu.com/s/1g4j2ZfwrHKFLVqgPFIKnkw?pwd=SLPA) and [dicotyledon weight](https://pan.baidu.com/s/1scJ1IDCokemKSuIg0utFfA?pwd=SLPA) put them in the 'logfocaleca' folder;
 
-4.Download [Environment variables](https://send.cm/4wzpt6aqryr3) then put it in the 'torch/lib' folder;
+4.Download [Environment variables](https://pan.baidu.com/s/1EguZjq3HfYwpw0MK8BgNPA?pwd=SLPA) then put it in the 'torch/lib' folder;
+
+5.**All the extract code for above links are SLPA**
 
 ## Usage of SLPA
 
